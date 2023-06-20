@@ -68,7 +68,6 @@ export default function Form() {
             setEmail("")
             setName("")
             setPhone("")
-
         }
     }
 
